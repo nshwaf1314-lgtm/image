@@ -1,0 +1,8 @@
+var GITHUB_TOKEN = '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';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';
+var REPO_OWNER = 'nshwaf1314@gmail.com';
+var REPO_NAME = 'image';
+var BRANCH = 'main';
+
+var IMAGE_API_URL = 'https://std.loliyc.com/api/generate';
+var IMAGE_API_KEY = 'STD-FdsDUmuhVjkJ3ur635IS';
+var IMAGE_MODEL = 'NAI4.5';
